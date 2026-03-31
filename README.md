@@ -8,4 +8,5 @@ This repository contains the technical documentation for the development of an a
 - **Core Logic:** C++ implementation of path planning and sensor fusion.
 
 ## Documentation
-You can find the full technical report [HERE](./Nombre_de_tu_archivo.pdf).
+You can find the full technical report [HERE](./Robotino-Autonomous-QR-Mapping.pdf).
+
