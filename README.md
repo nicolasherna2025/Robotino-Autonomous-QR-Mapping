@@ -1,2 +1,11 @@
 # Robotino-Autonomous-QR-Mapping
-"Technical report and implementation details or an intelligent QR Code Recognition and Navigation System using Robotino (Festo)."
+
+This repository contains the technical documentation for the development of an autonomous navigation and mapping system.
+
+## Key Features
+- **Platform:** Robotino by Festo (Omnidirectional).
+- **Sensors:** LiDAR, IR, and a camera.
+- **Core Logic:** C++ implementation of path planning and sensor fusion.
+
+## Documentation
+You can find the full technical report [HERE](./Nombre_de_tu_archivo.pdf).
